@@ -5,7 +5,7 @@ After you have hopefully explored the Jupyter environment and are able to create
 
 
 1. Variables and Types
-2. Operators and comparisons
+2. Operators and Comparisons
 3. Data Types
 4. Modules
 
